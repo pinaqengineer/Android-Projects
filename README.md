@@ -30,7 +30,19 @@ A CD-based interactive learning platform aimed at students from grades 5 to 10. 
     Progress Tracking: Keep track of your learning journey and milestones.
     Comprehensive Study Material: Simplified explanations and examples make learning fun and engaging.
 
-    # Adding More Projects ...
+4. To-Do List App
+
+A productivity app that allows users to add, edit, and delete tasks, with notifications for reminders. You can also include features like categorization, due dates, and priority levels.
+
+    A user-friendly productivity app that helps users manage their daily tasks with options to add, edit, delete, and organize tasks. It also includes reminder notifications to ensure important tasks are never missed.
+
+5. Expense Tracker 
+
+An app to track daily expenses, allowing users to add transactions, categorize them, and visualize their spending through graphs and charts.
+
+    A comprehensive app designed to track daily expenses, enabling users to categorize their spending, set budgets, and visualize their financial habits through interactive charts and detailed summaries.
+    
+# Adding More Projects ...
 
 # 📚 Android Development Resources
 
